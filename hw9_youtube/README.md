@@ -1,6 +1,5 @@
 # hw9_youtube
 
-A new Flutter project.
 This assignment has 1 bug that need to tap on blank space to go to the next page of the video.
 ## Getting Started
 
